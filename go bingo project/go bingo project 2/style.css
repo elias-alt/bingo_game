@@ -15,7 +15,7 @@ body{
 }
 .main-container{
     width: 30%;
-    height: 100vh;
+    height: 90vh;
     border-radius: 10px;
     background-image: url('bg-frame2.jpg');
     background-repeat: no-repeat;
