@@ -415,7 +415,7 @@ body{
         height: 100vh;
     }
     .bingo-numbers button{
-        height: 20px;
+        height: 24px;
     }
 }
 .selected {
